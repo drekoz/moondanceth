@@ -81,10 +81,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <div class="promo-block">
             <div class="container">
                 <div class="margin-b-40">
-                    <h1 class="promo-block-title">SmartRegister_Prototype#01.</h1>
-                    <p class="promo-block-text">Look no further. You came to the right ... place</p>
+                    <h1 class="promo-block-title">Business Intelligence Service</h1>
+                    <p class="promo-block-text">Transform Your Business Through Data</p>
                 </div>
-                <a class="btn-theme btn-theme-md btn-white-bg text-uppercase" href="<?= base_url().'eventregistration'; ?>"> CREATE NEW EVENT </a>
+                <!--
+                    <a class="btn-theme btn-theme-md btn-white-bg text-uppercase" href="<?= base_url().'eventregistration'; ?>"> CREATE NEW EVENT </a>
+                -->
             </div>
         </div>
         <!--========== SLIDER ==========-->
@@ -96,7 +98,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="row text-center margin-b-40">
                     <div class="col-sm-6 col-sm-offset-3">
                         <h2>Latest Products</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                        <p>Business Intelligence Service</p>
                     </div>
                 </div>
                 <!--// end row -->
@@ -107,7 +109,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="<?php echo base_url('assets/img/970x647/01.jpg'); ?>" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".1s">
                         </div>
-                        <h4><a href="#">Workspace</a> <span class="text-uppercase margin-l-20">Management</span></h4>
+                        <h4><a href="#">ERP Replacement</a> <span class="text-uppercase margin-l-20">Management</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
                         <a class="link" href="#">Read More</a>
                     </div>
@@ -118,7 +120,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="<?php echo base_url('assets/img/970x647/02.jpg'); ?>" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".2s">
                         </div>
-                        <h4><a href="#">Minimalism</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
+                        <h4><a href="#">Proative Insight Provider</a> <span class="text-uppercase margin-l-20">Developmeny</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
                         <a class="link" href="#">Read More</a>
                     </div>
@@ -129,7 +131,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="margin-b-20">
                             <img class="img-responsive wow fadeIn" src="<?php echo base_url('assets/img/970x647/03.jpg'); ?>" alt="Latest Products Image" data-wow-duration=".3" data-wow-delay=".3s">
                         </div>
-                        <h4><a href="#">Cleant Style</a> <span class="text-uppercase margin-l-20">Design</span></h4>
+                        <h4><a href="#">Your Data Driven Assistance</a> <span class="text-uppercase margin-l-20">Design</span></h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incdidunt ut laboret dolor magna ut consequat siad esqudiat dolor</p>
                         <a class="link" href="#">Read More</a>
                     </div>
@@ -466,7 +468,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="pricing">
                                 <div class="margin-b-30">
                                     <i class="pricing-icon icon-chemistry"></i>
-                                    <h3>Starter Kit <span> - $</span> 49</h3>
+                                    <h3>Starter Kit </h3>
                                     <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
                                 <ul class="list-unstyled pricing-list margin-b-50">
@@ -483,7 +485,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="pricing pricing-active">
                                 <div class="margin-b-30">
                                     <i class="pricing-icon icon-badge"></i>
-                                    <h3>Professional <span> - $</span> 149</h3>
+                                    <h3>Professional </h3>
                                     <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
                                 <ul class="list-unstyled pricing-list margin-b-50">
@@ -500,7 +502,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                             <div class="pricing">
                                 <div class="margin-b-30">
                                     <i class="pricing-icon icon-shield"></i>
-                                    <h3>Advanced <span> - $</span> 249</h3>
+                                    <h3>Advanced </h3>
                                     <p>Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                 </div>
                                 <ul class="list-unstyled pricing-list margin-b-50">
