@@ -44,7 +44,6 @@ window.initMap = function() {
 
   var marker = new google.maps.Marker({
     map: map,
-    icon: image,
     title: 'Brooklyn',
     position: brooklyn
   });

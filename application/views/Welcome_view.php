@@ -50,8 +50,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <!-- Logo -->
                         <div class="logo">
                             <a class="logo-wrap" href="#body">
-                                <img class="logo-img logo-img-main" src="<?php echo base_url('assets/img/logo.png'); ?>" alt="Asentus Logo">
-                                <img class="logo-img logo-img-active" src="<?php echo base_url('assets/img/logo-dark.png'); ?>" alt="Asentus Logo">
+                                <img class="logo-img logo-img-main" style="max-width: 50%;" src="<?php echo base_url('assets/img/logoMoon.png'); ?>" alt="Asentus Logo">
+                                <img class="logo-img logo-img-active" style="max-width: 50%;" src="<?php echo base_url('assets/img/logoMoon.png'); ?>" alt="Asentus Logo">
                             </a>
                         </div>
                         <!-- End Logo -->
@@ -621,19 +621,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
             <!-- End Links -->
 
-            <!-- Copyright -->
+            <!-- Copyright 
             <div class="content container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <img class="footer-logo" src="<?php echo base_url('assets/img/logo-dark.png'); ?>" alt="Aironepage Logo">
+                        <img class="logo-img logo-img-main" style="max-width: 50%;" src="<?php echo base_url('assets/img/logoMoon.png'); ?>" alt="Asentus Logo">
                     </div>
                     <div class="col-xs-6 text-right">
                         <p class="margin-b-0"><a class="fweight-700" href="http://keenthemes.com/preview/aironepage/">Aironepage</a> Theme Powered by: <a class="fweight-700" href="http://www.keenthemes.com/">KeenThemes.com</a></p>
                     </div>
                 </div>
-                <!--// end row -->
+                <!--// end row 
             </div>
             <!-- End Copyright -->
+    
         </footer>
         <!--========== END FOOTER ==========-->
 
